@@ -1,0 +1,23 @@
+.center {
+    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2017/06/25/21/12/background-2442009_960_720.jpg) ;
+    background-position: center;
+   
+  
+    }
+    
+
+
+   
+   h1{
+    text-align: center;
+
+}
+   h2 {
+    text-align: center;
+}
